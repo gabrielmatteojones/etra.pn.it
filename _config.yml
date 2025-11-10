@@ -36,6 +36,10 @@ baseurl: "/etra.pn.it"
 
 permalink: /:title/
 
+
+title: "Jonez"
+
+
 # The release of Jekyll Now that you're using
 version: v4.0.0
 
