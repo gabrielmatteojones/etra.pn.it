@@ -11,7 +11,7 @@
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 	
 	<!-- This site is optimized with the Yoast SEO plugin v23.9 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>{{ site.title }} -</title>
+	<title>{{ site.title }} - {{ page title }}</title>
 	<link rel="canonical" href="{{ site.burl }}/" />
 	<meta property="og:locale" content="it_IT" />
 	<meta property="og:type" content="website" />
@@ -73,8 +73,9 @@
 		<nav role="navigation" class="usa-nav">
 			<button class="usa-nav-close"></button>
 
-			<ul id="menu-api" class="usa-nav-primary usa-accordion"><li><a href="{{ site.burl }}" class="usa-nav-link usa-current"><span>Home</span></a></li>
-<li><a href="/blog/" class="usa-nav-link"><span>Blog</span></a></li>
+			<ul id="menu-api" class="usa-nav-primary usa-accordion">
+<li><a href="/" class="usa-nav-link"><span>Home</span></a></li>
+<li><a href="https://18f.it/" class="usa-nav-link"><span>Blog</span></a></li>
 <li><a href="/FOIA/" class="usa-nav-link"><span>FOIA</span></a></li>
 <li><a href="/aree/" class="usa-nav-link"><span>Aree Tematiche</span></a></li>
 </ul>		</nav>

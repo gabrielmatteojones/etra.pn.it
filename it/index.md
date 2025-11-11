@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jonezz
+title: Jonez
 description: Questo è un esempio di homepage con utilizzo del componente "hero"
 lang: it
 ref: homepage
