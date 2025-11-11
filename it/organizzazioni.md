@@ -9,7 +9,6 @@ order: 1                     # (Opzionale) Ordine per la navigazione o elenchi
 
 <div class="container">
 
-<!-- Assicurati di avere incluso il CSS/JS di USWDS nella pagina:
 <link rel="stylesheet" href="https://designsystem.digital.gov/assets/styles.css">
 -->
 <section aria-labelledby="progetti-heading" class="usa-section">
