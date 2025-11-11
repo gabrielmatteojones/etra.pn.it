@@ -4,7 +4,7 @@ title: Organizzazioni Jonez
 description: Questo è un esempio di homepage con utilizzo del componente "hero"
 lang: it
 ref: homepage
-permalink: /
+permalink: /orgs/
 order: 1
 ---
 
